@@ -1,16 +1,5 @@
-# jsonplaceholder_app
+# Jsonplaceholder API and HTTP package in Flutter
+![222](https://user-images.githubusercontent.com/81623956/202753163-8043821a-2a81-4552-9c97-81649ce040a9.jpeg)
+![111](https://user-images.githubusercontent.com/81623956/202753155-af6a83f0-2081-4933-9159-fdadf6752db4.JPG)
+![000](https://user-images.githubusercontent.com/81623956/202753139-a8514e7c-b58b-485a-b298-684646cc9aec.JPG)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
